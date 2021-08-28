@@ -1,5 +1,4 @@
 import os
-import pdfplumber
 
 def rename(directory):
     count = 0
